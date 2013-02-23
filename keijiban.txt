@@ -1,0 +1,83 @@
+<table><tr><td><img src='./img/neko.jpg'></td><td><p class='balloon'>asdfaf</p></td></tr></table>
+<table><tr><td><img src='./img/neko.jpg' align='left'></td><td><p class='balloon'>asdfaf</p></td></tr></table>
+<table><tr><td><img src='./img/neko.jpg' align='left'></td><td><p class='balloon'>あいうえおかきくけこ<br />
+あうさfだs</p></td></tr></table>
+<table><tr><td><img src='./img/neko.jpg' align='left'></td><td><p class='balloon'>おおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお</p></td></tr></table>
+<table><tr><td><img src='./img/neko.jpg' align='left'></td><td><p class='balloon'>おおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお</p></td></tr></table>
+<table><tr><td><img src='./img/neko.jpg' align='left'></td><td><p class='balloon'>asdf<br />
+asdfa<br />
+fasdf<br />
+fasd<br />
+asfdafa<br />
+sdfasdfa<br />
+</p></td></tr></table>
+<table><tr><td><img src='./img/neko.jpg'></td><td><p class='balloon'>asdf<br />
+asdfa<br />
+fasdf<br />
+fasd<br />
+asfdafa<br />
+sdfasdfa<br />
+</p></td></tr></table>
+<table><tr><td><img src='./img/neko.jpg'></td><td><p class='balloon'>asdf<br />
+asdfa<br />
+fasdf<br />
+fasd<br />
+asfdafa<br />
+sdfasdfa<br />
+</p></td></tr></table>
+<table><tr><td><img src='./img/neko.jpg'></td><td><p class='balloon'>asdf<br />
+asdfa<br />
+fasdf<br />
+fasd<br />
+asfdafa<br />
+sdfasdfa<br />
+</p></td></tr></table>
+<table><tr><td><img src='./img/neko.jpg'></td><td><p class='balloon'>asdf<br />
+asdfa<br />
+fasdf<br />
+fasd<br />
+asfdafa<br />
+sdfasdfa<br />
+</p></td></tr></table>
+<table><tr><td><img src='./img/neko.jpg'></td><td><p class='balloon'>asdf<br />
+asdfa<br />
+fasdf<br />
+fasd<br />
+asfdafa<br />
+sdfasdfa<br />
+</p></td></tr></table>
+<table><tr><td><img src='./img/neko.jpg'></td><td><p class='balloon'>asdf<br />
+asdfa<br />
+fasdf<br />
+fasd<br />
+asfdafa<br />
+sdfasdfa<br />
+</p></td></tr></table>
+<table><tr><td><img src='./img/neko.jpg'></td><td><p class='balloon'>asdf<br />
+asdfa<br />
+fasdf<br />
+fasd<br />
+asfdafa<br />
+sdfasdfa<br />
+</p></td></tr></table>
+<table><tr><td><img src='./img/neko.jpg'></td><td><p class='balloon'>asdf<br />
+asdfa<br />
+fasdf<br />
+fasd<br />
+asfdafa<br />
+sdfasdfa<br />
+</p></td></tr></table>
+<table><tr><td><img src='./img/neko.jpg'></td><td><p class='balloon'>asdf<br />
+asdfa<br />
+fasdf<br />
+fasd<br />
+asfdafa<br />
+sdfasdfa<br />
+</p></td></tr></table>
+<table><tr><td><img src='./img/neko.jpg'></td><td><p class='balloon'>asdf<br />
+asdfa<br />
+fasdf<br />
+fasd<br />
+asfdafa<br />
+sdfasdfa<br />
+</p></td></tr></table>
