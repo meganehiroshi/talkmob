@@ -101,6 +101,7 @@
 		h3 a:visited { text-decoration:none; color:#663B12;}
 		h3 a:hover { text-decoration:underline; color:#663B12;}
 
+//=========== balloon -> 吹き出し =============//
 p.balloon {
 	position: relative;
 	background: #ffffff;
@@ -136,4 +137,6 @@ p.balloon:before {
 	top: 50%;
 	margin-top: -13px;
 }
+//==============================================//
+
 	</style>
